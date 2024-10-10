@@ -1,0 +1,12 @@
+[package]
+name = "prac1"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "junior"
+path = "src/junior.rs"
+
+[[bin]]
+name = "senior"
+path = "src/senior.rs"
